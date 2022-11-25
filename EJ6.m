@@ -2,7 +2,7 @@
 %{
 Técnicas de Control - Curso 2022/23
  UD1- Ejercicio 6 
-Fuyutsuky
+Aitor Gude Romero
 %}
 
 %***************Definición e inicialización de variables:****************
